@@ -1,4 +1,5 @@
-# DICODING
+# *DICODING*
+
 [Getting Started with Programming Basics to Become a Software Developer](https://www.dicoding.com/certificates/N9ZOO09QYZG5)
 
 [Introduction to Programming Logic](https://www.dicoding.com/certificates/1RXY1DLVKPVM)
@@ -17,7 +18,8 @@
 
 [Learn to Apply Machine Learning with Google Cloud](https://www.dicoding.com/certificates/MEPJNNE1WX3V)
 
-#COURSERA 
+#*COURSERA* 
+
 [Technical Support Fundamentals](https://coursera.org/share/fd4168f569437374a62e9247a9e43fa9)
 
 [The Bits and Bytes of Computer Networking](https://coursera.org/share/28580999df10a618db3a9ffaba495cdf)
@@ -28,5 +30,6 @@
 
 [IT Security: Defense against the digital dark arts](https://coursera.org/share/7e1b5c3b439148a65f57f7c5427fed67)
 
-#GOOGLE CLOUD SKILL BOOST
+#*GOOGLE CLOUD SKILL BOOST*
+
 [Badges Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/7e29c38e-f27c-496b-90d0-2096827d7c8b)
