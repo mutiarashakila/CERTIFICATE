@@ -1,4 +1,8 @@
-# *DICODING*
+#Technical Certifications
+
+This repository contains links to my technical certifications obtained from Dicoding, Coursera and Google Cloud Skill Boost. Each certification represents a step in my journey to master cloud computing, machine learning, and related technologies. Below are the courses and their respective links.
+
+# Dicoding Certifications
 
 [Getting Started with Programming Basics to Become a Software Developer](https://www.dicoding.com/certificates/N9ZOO09QYZG5)
 
@@ -18,7 +22,7 @@
 
 [Learn to Apply Machine Learning with Google Cloud](https://www.dicoding.com/certificates/MEPJNNE1WX3V)
 
-# *COURSERA* 
+# Coursera Certifications
 
 [Technical Support Fundamentals](https://coursera.org/share/fd4168f569437374a62e9247a9e43fa9)
 
@@ -30,6 +34,6 @@
 
 [IT Security: Defense against the digital dark arts](https://coursera.org/share/7e1b5c3b439148a65f57f7c5427fed67)
 
-# *GOOGLE CLOUD SKILL BOOST*
+# Google Cloud Skill Boost Badges
 
 [Badges Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/7e29c38e-f27c-496b-90d0-2096827d7c8b)
