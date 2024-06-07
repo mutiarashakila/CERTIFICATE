@@ -1,4 +1,4 @@
-#Technical Certifications
+# Technical Certifications
 
 This repository contains links to my technical certifications obtained from Dicoding, Coursera and Google Cloud Skill Boost. Each certification represents a step in my journey to master cloud computing, machine learning, and related technologies. Below are the courses and their respective links.
 
